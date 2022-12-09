@@ -1,0 +1,3 @@
+C:/Users/fucki/Desktop/po/CMakeFiles/anekdotiru2005.dir
+C:/Users/fucki/Desktop/po/CMakeFiles/ALL_BUILD.dir
+C:/Users/fucki/Desktop/po/CMakeFiles/ZERO_CHECK.dir
